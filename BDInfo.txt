@@ -1,0 +1,9 @@
+taxedo9819@rabitex.com
+taxedo9819@rabitex.comQ
+
+postgresql://voinore1_owner:L8Kv4yCinbao@ep-bold-heart-a2exmxq8.eu-central-1.aws.neon.tech/voinore1?sslmode=require
+
+host: ep-bold-heart-a2exmxq8.eu-central-1.aws.neon.tech
+username: voinore1_owner
+password: L8Kv4yCinbao
+database: voinore1
